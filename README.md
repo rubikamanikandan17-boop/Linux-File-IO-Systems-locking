@@ -124,7 +124,9 @@ return 0;
 ## OUTPUT
 
 
+<img width="810" height="374" alt="image" src="https://github.com/user-attachments/assets/52fbb606-c2d5-4cea-92c1-0ac78ea13edc" />
 
+<img width="677" height="116" alt="image" src="https://github.com/user-attachments/assets/cc1a56ae-3efe-4613-91db-fa365e86b99c" />
 
 
 # RESULT:
